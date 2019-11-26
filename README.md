@@ -18,7 +18,7 @@ First CARLA must be installed on your machine, the CARLA loader requires **Ubunt
 
 Please go through **CARLA-Setup-Guide-_Ubuntu_.pdf** and install CARLA and all other dependencies properly.
 
-[CARLA Simulator can be downloaded here](https://d3c33hcgiwev3.cloudfront.net/3dXfty7_EemFOA6Hm29iNA_de05a1c02eff11e9821ed19f5bd73b7b_CarlaUE4Ubuntu.tar.gz?Expires=1557446400&Signature=VsAZmQwuGUCkPwkuBxs~PR8GoF1Ie9d-4zd4c-bKv5OOsS6-wbGoriCty~OxnYxK9MBEXlvaSxMeNXAVuZzCBLbri-syKLMQ~EjSLMcU6PK9wA3ZFCHETko-9rBpkJKuTlN7cEODpFTjEN~hYkjwLVip7QGAwJMytqwE2WB~iTA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+CARLA Simulator can be downloaded from [this course](https://www.coursera.org/learn/motion-planning-self-driving-cars)
 
 ## How to run it
 First clone this repository and put it under **PythonClient** directory.
